@@ -1,3 +1,4 @@
+new line
 echo "# Demo2" >> README.md
 added this line
 git init
